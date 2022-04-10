@@ -153,3 +153,5 @@ Si vraiment vous voulez des indices, alors il va falloir scroller un peu !
 4. Il faudra aussi trouver un moyen de dire au `Navigator` que l'utilisateur a cliqué sur une vignette de la `VideoList` de manière à changer le state et donc afficher le `VideoDetail`. Pour ça, sachez que lorsque vous passez des **`props`** à un composant enfant, on a jusque là passé des valeurs simples (_chaînes, nombres, objets_) mais en fait vous avez aussi le droit de **passer des références vers des fonctions ou des méthodes du composant parent** !
 
 Si après ça vous avez encore besoin d'aide, interrogez moi ! :)
+
+[Pour accéder au TP suivant, cliquer ici](https://github.com/GuillaumeCar/react-tp5)
